@@ -4,25 +4,22 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 
 ## Redes Sociais
 <p align="left">
-    <a href="SEU_LINK_LINKEDIN" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" width= "40">
+    <a href="https://www.linkedin.com/in/luan-carlos-6ab5412a9" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width= "40">
     </a>
-    <a href="SEU_LINK_INSTAGRAM" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=000000"  width= "40">
+    <a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"  width= "40">
     </a>
-    <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=000000"  width= "40">
+    <a href="https://www.facebook.com/share/1H2bXByjp6/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000"  width= "40">
     </a>
-     <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000"  width= "40">
+     <a href="https://luancarlos13.github.io/Portf-lio/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=LoyAjcvVKv1K&format=png&color=000000"  width= "40">
     </a>
-     <a href="SEU_LINK_PORTFOLIO" target="_blank">
+     <a href="https://www.tiktok.com/@lcservises2025?_r=1&_t=ZS-97FC3gR1AiS">
         <img src="https://img.icons8.com/?size=100&id=118638&format=png&color=000000"  width= "40">
     </a>
 
-  
-
-    
 </p>
 
 ## :crystal_ball: Linguagens e ferramentas

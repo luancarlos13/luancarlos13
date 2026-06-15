@@ -2,7 +2,7 @@
 
 Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualmente estou aprendendo e criando projetos com HTML, CSS e adquirindo conhecimento no JavaScript e React. No momento, estou estudando no DevClub que é uma das melhores redes de ensino de programação do Brasil, com aulas explicativas e dinâmicas venho aprendendo e evoluindo cada vez mais na árae. Meu objetivo é conseguir meu primeiro emprego na área como desenvolvedor front-end júnior e assim, continuar crescendo e evoluindo tanto como pessoa quanto como profissional. 
 
-## Redes Sociais
+## :earth_americas: Redes Sociais
 <p align="left">
     <a href="https://www.linkedin.com/in/luan-carlos-6ab5412a9" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width= "40">
@@ -22,7 +22,7 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 
 </p>
 
-## :crystal_ball: Linguagens e ferramentas
+## 🤖 Linguagens e ferramentas
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">

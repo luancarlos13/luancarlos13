@@ -11,16 +11,18 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
         <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=000000">
     </a>
     <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=435&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=000000">
     </a>
-
      <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000">
+    </a>
+     <a href="SEU_LINK_PORTFOLIO" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=118638&format=png&color=000000">
     </a>
 
-       <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=84521&format=png&color=000000">
-    </a>
+  
+
+    
 </p>
 
 ## :crystal_ball: Linguagens e ferramentas
@@ -32,3 +34,7 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 <img src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luancarlos13&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luancarlos13)](https://github.com/anuraghazra/github-readme-stats)

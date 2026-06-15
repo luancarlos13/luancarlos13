@@ -5,19 +5,19 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 ## Redes Sociais
 <p align="left">
     <a href="SEU_LINK_LINKEDIN" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" height: 40>
+        <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" width: "40">
     </a>
     <a href="SEU_LINK_INSTAGRAM" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=000000"  width: "40">
     </a>
     <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=000000"  width: "40">
     </a>
      <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000"  width: "40">
     </a>
      <a href="SEU_LINK_PORTFOLIO" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=118638&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=118638&format=png&color=000000"  width: "40">
     </a>
 
   

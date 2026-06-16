@@ -37,5 +37,5 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luancarlos13&show_icons=true&theme=radical)
 
      
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luancarlos13&stats_format=bytes)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luancarlos13&stats_icons=true&theme=radical)
      
